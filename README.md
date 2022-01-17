@@ -18,7 +18,7 @@ Download earlier versions of Marlin on the [Releases page](https://github.com/Ma
 
 ## This Configuration
 
-This configuration was created by Ryan Castelli for a modified Prusa Mendel i2 RepRap printer.
+This configuration was created by Riley Castelli for a modified Prusa Mendel i2 RepRap printer.
 
 ## Building Marlin 2.0
 
